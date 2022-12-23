@@ -1,0 +1,24 @@
+.FiatAmount{
+    padding: 10px;
+    display: flex;
+    gap: 10px
+}
+
+.FiatAmount__input{
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.FiatAmount__select{
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: navajowhite;
+}

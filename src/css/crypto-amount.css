@@ -22,3 +22,10 @@
     font-weight: bold;
     background-color: lightskyblue;
 }
+
+@media (width <= 600px) {
+
+    .CryptoAmount{
+        flex-direction: column;
+    }
+}

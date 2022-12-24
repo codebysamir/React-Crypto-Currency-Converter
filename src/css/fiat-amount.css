@@ -22,3 +22,10 @@
     font-weight: bold;
     background-color: navajowhite;
 }
+
+@media (width <= 600px) {
+
+    .FiatAmount{
+        flex-direction: column;
+    }
+}

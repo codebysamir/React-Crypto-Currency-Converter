@@ -57,5 +57,25 @@
 }
 
 @media (width <= 600px) {
-    
+
+    .crypto-converter{
+       display: flex;
+       flex-direction: column;
+       padding: 2rem;
+       margin: 2rem 2rem;
+    }
+
+    .filter{
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .FiatAmount{
+        margin-top: 2rem;
+    }
+
+    .CryptoAmount{
+        margin-top: 2rem;
+    }
 }
